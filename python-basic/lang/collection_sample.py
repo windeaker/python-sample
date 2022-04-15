@@ -4,3 +4,10 @@ def list_sample():
 def turple_sample():
     pass
 
+def dict_sample():
+    pass
+
+def set_sample():
+    pass
+
+
