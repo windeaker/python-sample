@@ -16,6 +16,8 @@ class Testclass(object):
 
 testclass=Testclass()
 testclass.print_id()
+testclass.chaosProperty="sdfasfasdfasdfads"
+print(testclass.chaosProperty)
 print(testclass.name)
 testclass.print_private_properties()
 
