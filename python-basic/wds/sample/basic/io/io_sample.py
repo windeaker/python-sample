@@ -9,9 +9,9 @@ musicFiles = dict()
 
 print("dirs: %s" % musicFiles)
 
-print("abs path: %s" % os.path.abspath("."))
+print("abs path: %s" % os.path.abspath(""))
 
-print(os.walk(os.path.abspath(".")))
+print(os.walk(os.path.abspath("")))
 
 
 def get_filelist(dir):
